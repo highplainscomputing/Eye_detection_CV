@@ -4,7 +4,7 @@ import numpy as np
 
 
 haar_cascade = cv2.CascadeClassifier('haarcascade_eye.xml') 
-frame = cv2.imread("pro_5.jpg")
+frame = cv2.imread("eye.jpg")
 print(frame.shape)
 
 # Convert to grayscale. 
