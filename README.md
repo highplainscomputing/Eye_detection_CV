@@ -40,17 +40,17 @@ To run this project on your local machine, follow these steps:
 ```bash
 <your-environment-name>\Scripts\activate
 ```
-  Deactivate
+2. Install Dependencies
 ```bash
-deactivate
+pip install -r requirements.txt
 ```
 
-2. Clone the repository:
+3. Clone the repository:
 ```bash
 git clone https://github.com/highplainscomputing/Eye_detection_CV.git
 ```
 
-3. Install the required libraries:
+4. Install the required libraries:
 
 ```bash
 pip install numpy opencv-Python
