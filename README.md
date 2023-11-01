@@ -17,7 +17,7 @@ The project is implemented in Python and relies on the following libraries: Pyth
 - [Contributing](#contributing)
 - [License](#license)
 
-  ## Algorithm Overview
+## Algorithm Overview
 
 ### Haar Cascade Algorithm
 The Haar Cascade Algorithm is a machine learning object detection method used to identify objects in images or video. In this project, it is utilized to detect eyes.
@@ -35,12 +35,12 @@ To run this project on your local machine, follow these steps:
 1. Create Virtual Environment
   ```bash
   python -m venv <your-environment-name>
-```
-Activate
+  ```
+  Activate
 ```bash
 <your-environment-name>\Scripts\activate
 ```
-Deactivate
+  Deactivate
 ```bash
 deactivate
 ```
