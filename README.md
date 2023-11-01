@@ -50,11 +50,6 @@ pip install -r requirements.txt
 git clone https://github.com/highplainscomputing/Eye_detection_CV.git
 ```
 
-4. Install the required libraries:
-
-```bash
-pip install numpy opencv-Python
-```
 4. Run the application.
 ```bash
 python eye_detector.py
