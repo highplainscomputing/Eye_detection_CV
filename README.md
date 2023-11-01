@@ -5,7 +5,7 @@
 This is a computer vision application that opens a webcam and detects eyes using the Haar Cascade Algorithm, along with the Hough Transform for improved results. 
 The project is implemented in Python and relies on the following libraries: Python, NumPy, and OpenCV-Python.
 
-
+![Detect Eye](https://i.imgur.com/feB157Q.jpg)
 
 ## Table of Contents
 
